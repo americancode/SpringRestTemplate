@@ -1,0 +1,1 @@
+curl -i -X POST -H -u nate:password "Content-Type:application/json" -d '{"firstName": "Frodo", "lastName": "Baggins"}' http://localhost:8080/junk
