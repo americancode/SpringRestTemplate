@@ -8,7 +8,6 @@ plugins {
 
 group = 'com.churchill'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '16'
 
 configurations {
 	compileOnly {
